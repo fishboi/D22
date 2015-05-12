@@ -1,0 +1,5 @@
+/run/media/fishboi/Data/Files/Code/Etc/C#/D22/D22/D22/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/run/media/fishboi/Data/Files/Code/Etc/C#/D22/D22/D22/bin/Debug/D22.exe.mdb
+/run/media/fishboi/Data/Files/Code/Etc/C#/D22/D22/D22/bin/Debug/D22.exe
+/run/media/fishboi/Data/Files/Code/Etc/C#/D22/D22/D22/obj/x86/Debug/D22.exe
+/run/media/fishboi/Data/Files/Code/Etc/C#/D22/D22/D22/obj/x86/Debug/D22.exe.mdb
